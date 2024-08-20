@@ -1,0 +1,44 @@
+﻿Index;Class
+0;Speed limit (20kph)
+1;Speed limit (30kph)
+2;Speed limit (50kph)
+3;Speed limit (60kph)
+4;Speed limit (70kph)
+5;Speed limit (80kph)
+6;No more limit (80kph)
+7;Speed limit (100kph)
+8;Speed limit (120kph)
+9;No passing
+10;No passing for lorries
+11;Priority road (red triangle)
+12;Priority road (yellow and white square)
+13;Give way
+14;Stop
+15;No way
+16;No lorries
+17;No entry
+18;Attention!
+19;Sharp left
+20;Sharp right
+21;Attention bendy road
+22;Wobbly road
+23;Slippery road
+24;Roadway narrows
+25;Construction work
+26;Traffic lights ahead
+27;Pedestrians
+28;Be aware of children
+29;Be aware of cyclists
+30;Icy roads
+31;Wildlife crossing
+32;No speed limit
+33;Right turn
+34;Left turn
+35;Straight
+36;Straight and right
+37;Straight and left
+38;Pass on the right
+39;Pass on the left
+40;Round about
+41;No passing is over
+42;No passing for lorries is over
